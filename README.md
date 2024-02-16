@@ -1,4 +1,4 @@
-Documentação de projetos de site
+Documentação do projeto do site
 
 
 Visão Geral
