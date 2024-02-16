@@ -17,7 +17,7 @@ HTML: Estrutura básica do site.
 CSS: Estilização para criar um design atraente.
 JavaScript: Para funcionalidades interativas (como o formulário de reserva que será implementada em breve).
 4. Como Executar o Projeto
-Clone este repositório: git clone https://github.com/seu-usuario/pousada-encanto-das-montanhas.git
+Clone este repositório:https://github.com/Webert33/-projeto-site-pousada.git 
 Abra o arquivo index.html em seu navegador.
 5. Contribuidores
 Hubert Brito: Desenvolvedor Front-end, Designer de UI/UX
